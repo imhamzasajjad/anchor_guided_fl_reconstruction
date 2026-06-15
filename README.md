@@ -56,8 +56,8 @@ and evaluates reconstruction behavior across multiple federated heterogeneity re
 | Experiment | Description | Dirichlet α |
 |------------|-------------|-------------|
 | E1 | IID | IID |
-| E2 | Mild Non-IID | 1.0 |
-| E3 | Strong Non-IID | 0.5 |
+| E2 | Mild Non-IID | 0.5 |
+| E3 | Strong Non-IID | 0.3 |
 | E4 | Extreme Non-IID | 0.1 |
 
 ---
