@@ -31,7 +31,6 @@ and evaluates reconstruction behavior across multiple federated heterogeneity re
 ├── reconstruction/
 │   ├── recon_multianchor.py
 │   └── ablation_study.py
-├── checkpoints/
 ├── results/
 ├── requirements.txt
 └── README.md
